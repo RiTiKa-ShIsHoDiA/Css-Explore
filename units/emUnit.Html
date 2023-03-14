@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>em units</title>
+    <style>
+        body{
+            font-size:1em; /*1em = 16px*/
+        }
+        .parent{
+            font-size:2em;   /*2*16 = 32*/
+        }
+        .child{
+            font-size: 3em; /*3*32 = 96px*/
+        }
+        span{
+            font-size: 4em; /* 2*96 = 192px*/
+        }
+    </style>
+</head>
+<body>
+    <div class = "parent">
+        hello
+        <p class = "child">are You okay</p>
+        <p>can u clear my all doubts<span>yes sure!</span></p>
+    </div>
+    
+</body>
+</html>
