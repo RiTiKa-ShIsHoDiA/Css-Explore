@@ -1,0 +1,14 @@
+li{
+    display:inline-block;
+    font-size: xx-large;
+    color:red;
+    text-decoration: underline;
+    width: 24%;
+    margin-left:0.1%;
+    text-align: center;
+}
+ul{
+    background-color: aqua;
+    padding:2%;
+    
+}

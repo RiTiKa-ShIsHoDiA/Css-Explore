@@ -1,0 +1,8 @@
+span{
+    display: block; /*jb inline ko block krte h to anne s phele jane k bd line break nahi hota */
+    background-color: blanchedalmond;
+}
+p{
+    display:inline; 
+    background-color: aqua;
+}
